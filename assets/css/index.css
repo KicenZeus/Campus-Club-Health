@@ -1,0 +1,16 @@
+.pbunder {
+    display: flex;
+    background-color: brown;
+    width: 79em;
+    height: 34em;
+}
+
+.bunder {
+    display: flex;
+
+}
+
+.bunder-icon img{
+    width: 20px;
+    
+}
